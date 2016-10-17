@@ -1,0 +1,3 @@
+fantasy=lord%20of%the%rings&fantasy=the%20%20hobbit&fantasy=harry+potter+and++++the+++deathly%20hallows%20&autor=j.k.rowling&autor=j.r.r.tolkien
+fantasy=a%20%20dance+with+the+drag000ns&shitbooks=twilight+++
+END

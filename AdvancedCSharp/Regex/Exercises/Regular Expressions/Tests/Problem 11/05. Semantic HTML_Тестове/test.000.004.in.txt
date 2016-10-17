@@ -1,0 +1,8 @@
+<div align="left" id="nav" style="color:blue">
+    <ul class="header">
+        <li id="main">
+            Hi, I have id="main".
+        </li>
+    </ul>
+</div> <!-- nav -->
+END

@@ -1,0 +1,2 @@
+itemid=[232]template=[fresh]crcat=[ppc, ppd]crsource=[google]crkw=[buy-a-lot]
+statusid=[185fGghh5743330976]user=[Ivan Ivanov]

@@ -1,0 +1,1 @@
+user=[gosho, pesho, mariika]university=[softuni]

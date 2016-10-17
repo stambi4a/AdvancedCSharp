@@ -1,0 +1,4 @@
+<div class="aside" style="color:blue">
+Aside
+</div> <!-- aside -->
+END

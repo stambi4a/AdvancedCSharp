@@ -1,0 +1,3 @@
+find=[elf]elves=[amarie nimrodel, gil-galad galadriel]mortal=[harry potter, he-who-must-not-be-named, boromir, bilbo beggins]elven=[legolas]immortal=[spirit]evil=[sauron]answer of everything=[42]
+q=[whitespace]oq=[whitespace]aqs=[chrome.0.0l6.1165j0j7]sourceid=[chrome]es_sm=[93]ie=[UTF-8]
+numbers=[20]symbols=[#%*^(^(]

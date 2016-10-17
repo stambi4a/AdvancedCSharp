@@ -1,0 +1,1 @@
+github=[http://github.com/SoftUni]stars=[1, 2, 3]

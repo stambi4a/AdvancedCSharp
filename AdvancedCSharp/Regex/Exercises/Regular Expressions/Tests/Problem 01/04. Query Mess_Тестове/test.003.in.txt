@@ -1,0 +1,3 @@
+fruit=apple&vegetable=tomato&fruit=banana&vegetable=potato
+sweet=chocolate&sweet=sugar
+END

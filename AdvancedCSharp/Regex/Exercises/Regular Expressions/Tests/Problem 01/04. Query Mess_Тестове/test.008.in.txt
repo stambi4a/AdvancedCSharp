@@ -1,0 +1,3 @@
+http://www.example.com/catalog.asp?itemid=232&template=fresh&crcat=ppc&crsource=google&crkw=buy-a-lot&crcat=ppd
+http://facebook.com/profile.php?statusid=185fGghh5743330976&user=Ivan%20Ivanov
+END

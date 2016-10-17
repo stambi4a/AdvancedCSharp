@@ -1,0 +1,8 @@
+<div align="left" class="section" style="color:blue">
+    <p class="header">
+        <span class="main">
+            Hi, I have class="main".
+        </span>
+    </p>
+</div> <!-- section-->
+END
